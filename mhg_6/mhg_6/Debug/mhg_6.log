@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\Users\metam\source\repos\mhg_6\mhg_6\소스.cpp(13,15): error C2664: 'void mile2km(int [])': 인수 1을(를) 'double [5]'에서 'int []'(으)로 변환할 수 없습니다.
+C:\Users\metam\source\repos\mhg_6\mhg_6\소스.cpp(13,10): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Users\metam\source\repos\mhg_6\mhg_6\소스.cpp(3,6): message : 'mile2km' 선언을 참조하십시오.
+C:\Users\metam\source\repos\mhg_6\mhg_6\소스.cpp(16,7): error C2062: 예기치 않은 'float' 형식입니다.
+C:\Users\metam\source\repos\mhg_6\mhg_6\소스.cpp(17,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\metam\source\repos\mhg_6\mhg_6\소스.cpp(17,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
