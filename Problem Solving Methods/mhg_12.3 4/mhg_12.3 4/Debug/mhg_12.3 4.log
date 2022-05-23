@@ -1,8 +1,0 @@
-﻿  소스.cpp
-C:\Users\metam\source\repos\mhg_12.3 4\mhg_12.3 4\소스.cpp(48,10): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
-C:\Users\metam\source\repos\mhg_12.3 4\mhg_12.3 4\소스.cpp(48,10): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
-C:\Users\metam\source\repos\mhg_12.3 4\mhg_12.3 4\소스.cpp(48,10): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int'입니다.
-C:\Users\metam\source\repos\mhg_12.3 4\mhg_12.3 4\소스.cpp(51,10): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
-C:\Users\metam\source\repos\mhg_12.3 4\mhg_12.3 4\소스.cpp(51,10): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
-C:\Users\metam\source\repos\mhg_12.3 4\mhg_12.3 4\소스.cpp(51,10): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int'입니다.
-  mhg_12.3 4.vcxproj -> C:\Users\metam\source\repos\mhg_12.3 4\Debug\mhg_12.3 4.exe

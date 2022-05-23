@@ -1,4 +1,0 @@
-﻿  소스.cpp
-C:\Users\metam\source\repos\jagu_lab1-1_stack\jagu_lab1-1_stack\소스.cpp(48,2): warning C4552: '!': 식의 결과가 사용되지 않습니다.
-C:\Users\metam\source\repos\jagu_lab1-1_stack\jagu_lab1-1_stack\소스.cpp(51,2): warning C4552: '!': 식의 결과가 사용되지 않습니다.
-  jagu_lab1-1_stack.vcxproj -> C:\Users\metam\source\repos\jagu_lab1-1_stack\Debug\jagu_lab1-1_stack.exe
