@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\metam\Desktop\git\c\Problem Solving Methods\mhg_lastexam_week9_hw2\mhg_lastexam_week9_hw2\소스.cpp(10,6): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+  mhg_lastexam_week9_hw2.vcxproj -> C:\Users\metam\Desktop\git\c\Problem Solving Methods\mhg_lastexam_week9_hw2\Debug\mhg_lastexam_week9_hw2.exe
