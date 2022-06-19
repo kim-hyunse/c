@@ -1,0 +1,37 @@
+--------Age group :10 - 19--------
+--------Age group :20 - 29--------
+15 2020-07-12 no Tongbang 26 Cornell University engineer
+22 2020-06-29 no Tongbang 29 Northwestern University marketer
+--------Age group :30 - 39--------
+2 2020-08-22 no Seungmin 31 Gachon University staff
+29 2020-06-08 yes Bailey 31 Gachon University engineer
+18 2020-06-14 no Tongbang 32 New York University engineer
+6 2020-06-04 yes Bobby 33 McGill University engineer
+19 2020-06-07 yes Chunyong 34 Harvard University staff
+10 2020-06-06 yes William 37 University of Cambridge engineer
+21 2020-07-21 yes Jude 38 Cornell University executive
+16 2020-08-16 yes Tongbang 39 Tsinghua University student
+--------Age group :40 - 49--------
+27 2020-08-24 no Konner 42 Gachon University professor
+28 2020-08-27 no Kwangsu 43 University of Pennsylvania student
+30 2020-07-13 yes Kyungmin 44 Duke University student
+9 2020-06-16 yes Kyungmin 45 University of Sydney marketer
+5 2020-06-12 yes Chunyong 48 University of Cambridge student
+11 2020-07-22 no Kwangsu 48 Seoul National University marketer
+14 2020-08-15 yes Kwangsu 48 Gachon University executive
+24 2020-07-24 no Stefan 48 University of Melbourne executive
+--------Age group :50 - 59--------
+20 2020-07-30 yes Chinho 52 Gachon University engineer
+3 2020-07-01 no Chinho 53 Peking University engineer
+8 2020-06-04 no Moises 57 Gachon University engineer
+26 2020-06-30 yes Sincere 58 University of Hong Kong staff
+--------Age group :60 - 69--------
+25 2020-06-09 no Archie 60 Fudan University student
+12 2020-07-22 no Owen 66 Gachon University engineer
+13 2020-06-03 yes Chinho 68 Gachon University student
+--------Age group :70 - 79--------
+7 2020-06-28 yes Jihu 70 Australian National University student
+23 2020-06-15 yes Seungmin 71 Stanford University professor
+4 2020-07-03 no Jihu 71 Tsinghua University engineer
+1 2020-08-25 yes Jihu 74 Harvard University engineer
+17 2020-08-14 no Chunyong 75 Gachon University student
