@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\metam\Desktop\git\c\Problem Solving Methods\mhg_vs.pt2\mhg_vs.pt2\소스.cpp(57,51): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\metam\Desktop\git\c\Problem Solving Methods\mhg_vs.pt2\mhg_vs.pt2\소스.cpp(79,51): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mhg_vs.pt2.vcxproj -> C:\Users\metam\Desktop\git\c\Problem Solving Methods\mhg_vs.pt2\Debug\mhg_vs.pt2.exe
